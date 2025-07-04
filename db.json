@@ -1,0 +1,20 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Maria"
+    },
+    {
+      "id": "2",
+      "nome": "João"
+    },
+    {
+      "id": "3666",
+      "nome": "Ana"
+    },
+    {
+      "id": "fade",
+      "nome": "maria"
+    }
+  ]
+}
